@@ -84,3 +84,39 @@ Command:
 git pull
 
 This updates your local files.
+
+🔄 Simple Git Workflow
+Edit Files
+     ↓
+git add
+     ↓
+git commit
+     ↓
+git push
+     ↓
+GitHub Repository
+Example Workflow
+git init
+git add .
+git commit -m "Initial commit"
+git push origin main
+
+This:
+
+Starts Git
+
+Adds files
+
+Saves them
+
+Uploads them online
+
+One-Sentence Explanation
+
+Git is a version control system that helps developers track changes, save project history, and collaborate with others.
+
+If you want, I can also show you:
+
+A simple Git diagram (very helpful for interviews)
+
+The 5 most important Git commands every DevOps or Cloud Engineer must know.
